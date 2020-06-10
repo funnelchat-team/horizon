@@ -9,6 +9,12 @@
             "email": "taylor@laravel.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/funnelchat-team/predis.git"
+        }
+    ],
     "require": {
         "php": ">=7.1.0",
         "ext-json": "*",
@@ -18,7 +24,7 @@
         "illuminate/contracts": "~5.7.0|~5.8.0|^6.0",
         "illuminate/queue": "~5.7.0|~5.8.0|^6.0",
         "illuminate/support": "~5.7.0|~5.8.0|^6.0",
-        "predis/predis": "^1.1",
+        "predis/predis": "v2.1.1",
         "ramsey/uuid": "^3.5",
         "symfony/process": "^4.2",
         "symfony/debug": "^4.2"
