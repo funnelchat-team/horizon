@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/funnelchat-team/predis.git"
+            "url": "git@github.com:funnelchat-team/predis.git"
         }
     ],
     "require": {
